@@ -1,0 +1,6 @@
+{
+  "name": "Campground & Holiday Park Executive OS",
+  "description": "Comprehensive campground and holiday park management system with interactive SVG pitch map, real-time reservation Gantt grid, guest digital concierge, dynamic pricing, and AI park ranger dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
